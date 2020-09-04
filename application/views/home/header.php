@@ -14,6 +14,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 <link rel="stylesheet" href="<?php echo base_url('assets/');?>css/style.css" type="text/css" media="all" /> <!-- Style-CSS --> 
 <link rel="stylesheet" href="<?php echo base_url('assets/');?>css/font-awesome.css"> <!-- Font-Awesome-Icons-CSS -->
 <!-- //css files -->
+  <link href="<?php echo base_url();?>assets/images/logo.png" rel="icon">
 <link rel="stylesheet" href="<?php echo base_url('assets/');?>css/owl.carousel.css" type="text/css" media="all"/>
 <!-- web-fonts -->
 <link href="//fonts.googleapis.com/css?family=Roboto+Condensed:300,300i,400,400i,700,700i&amp;subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese" rel="stylesheet">

@@ -8,8 +8,7 @@
     <meta name="keywords" content="">
     <meta name="author" content="PIXINVENT">
     <title>Admin Dashboard - DC</title>
-    <link rel="apple-touch-icon" sizes="60x60" href="<?php echo base_url('assets/img/'); ?>fevicon.ico">
-    <link rel="shortcut icon" type="image/png" href="<?php echo base_url('assets/img/fevicon.ico'); ?>">
+    <link href="<?php echo base_url();?>assets/images/logo.png" rel="icon">
     <!-- BEGIN VENDOR CSS-->
     <link rel="stylesheet" type="text/css" href="<?php echo base_url('assets/admincss/'); ?>css/bootstrap.css">
     <!-- font icons-->
