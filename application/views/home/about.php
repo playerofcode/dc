@@ -15,6 +15,10 @@
 p{
 	line-height: 25px;
 }
+ul li
+{
+	font-size: 18px;
+}
 </style>
 <!-- Slider -->
 <div class="banner">
@@ -38,7 +42,7 @@ p{
 			<div class="col-md-6 about-right_w3ls">
 				  <div class="about-top_agile_its">
 					<h3>About Us</h3>
-					<h5>We deliver mission-critical services and solutions on behalf of businesses and governments – creating exceptional outcomes for our clients and the millions of people who count on them.</h5>
+					<p>We deliver mission-critical services and solutions on behalf of businesses and governments – creating exceptional outcomes for our clients and the millions of people who count on them.</p>
 					<p><b>DC’s Core Values guide how we think, act
 and make decisions.</b></p>
 					<ul>
